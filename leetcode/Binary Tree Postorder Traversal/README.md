@@ -1,4 +1,4 @@
-![tree_2](https://github.com/user-attachments/assets/4d104ce2-def8-4c9a-986b-d6b8936aa658)Binary Tree Postorder Traversal
+Binary Tree Postorder Traversal
 
 
 145. Binary Tree Postorder Traversal
