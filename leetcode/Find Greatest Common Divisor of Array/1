@@ -1,0 +1,19 @@
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var findGCD = function(nums) {
+    let minValue=Math.min(...nums);
+    let maxValue=Math.max(...nums);
+    function gcd(a,b){
+        if(b===0){
+            return a;
+        }
+        return gcd(b,a%b);
+    }
+    return gcd(minValue,maxValue);
+};
+
+console.log(findGCD([2,5,6,9,10])); 
+console.log(findGCD([7,5,6,8,3])); 
+console.log(findGCD([3,3])); 
