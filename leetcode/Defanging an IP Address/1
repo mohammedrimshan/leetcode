@@ -1,0 +1,17 @@
+/**
+ * @param {string} address
+ * @return {string}
+ */
+var defangIPaddr = function(address) {
+    let Adress=""
+    for(let i=0;i<address.length;i++){
+        if(address[i]==='.'){
+            Adress=Adress+"[.]";
+        }else{
+            Adress=Adress+address[i];
+        }
+    }
+    return Adress;
+};
+
+console.log(defangIPaddr("1.1.1.1"))
