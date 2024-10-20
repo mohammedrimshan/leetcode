@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3324-split-the-array](https://github.com/mohammedrimshan/leetcode/tree/master/3324-split-the-array) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/mohammedrimshan/leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
