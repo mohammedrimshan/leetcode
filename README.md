@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mohammedrimshan/leetcode/tree/master/0035-search-insert-position) |
+| [0932-monotonic-array](https://github.com/mohammedrimshan/leetcode/tree/master/0932-monotonic-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mohammedrimshan/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [3324-split-the-array](https://github.com/mohammedrimshan/leetcode/tree/master/3324-split-the-array) |
 ## Binary Search
