@@ -43,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/mohammedrimshan/leetcode/tree/master/0009-palindrome-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/mohammedrimshan/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mohammedrimshan/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mohammedrimshan/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
