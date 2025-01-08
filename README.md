@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/mohammedrimshan/leetcode/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/mohammedrimshan/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mohammedrimshan/leetcode/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/mohammedrimshan/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/mohammedrimshan/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/mohammedrimshan/leetcode/tree/master/0941-sort-array-by-parity) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mohammedrimshan/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
