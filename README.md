@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/mohammedrimshan/leetcode/tree/master/0035-search-insert-position) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohammedrimshan/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0682-baseball-game](https://github.com/mohammedrimshan/leetcode/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/mohammedrimshan/leetcode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/mohammedrimshan/leetcode/tree/master/0941-sort-array-by-parity) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mohammedrimshan/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -74,4 +75,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohammedrimshan/leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/mohammedrimshan/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/mohammedrimshan/leetcode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/mohammedrimshan/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
