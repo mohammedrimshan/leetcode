@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohammedrimshan/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/mohammedrimshan/leetcode/tree/master/0035-search-insert-position) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohammedrimshan/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/mohammedrimshan/leetcode/tree/master/0682-baseball-game) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohammedrimshan/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/mohammedrimshan/leetcode/tree/master/0141-linked-list-cycle) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohammedrimshan/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mohammedrimshan/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
