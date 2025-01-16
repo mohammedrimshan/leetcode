@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mohammedrimshan/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2836-neither-minimum-nor-maximum](https://github.com/mohammedrimshan/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/mohammedrimshan/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/mohammedrimshan/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/mohammedrimshan/leetcode/tree/master/3324-split-the-array) |
 ## Binary Search
 |  |
@@ -30,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mohammedrimshan/leetcode/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mohammedrimshan/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mohammedrimshan/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/mohammedrimshan/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/mohammedrimshan/leetcode/tree/master/3324-split-the-array) |
 ## Counting
 |  |
 | ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/mohammedrimshan/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/mohammedrimshan/leetcode/tree/master/3324-split-the-array) |
 ## String
 |  |
