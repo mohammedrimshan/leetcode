@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mohammedrimshan/leetcode/tree/master/0009-palindrome-number) |
+| [2649-count-total-number-of-colored-cells](https://github.com/mohammedrimshan/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2812-find-the-maximum-achievable-number](https://github.com/mohammedrimshan/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3055-maximum-odd-binary-number](https://github.com/mohammedrimshan/leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Linked List
