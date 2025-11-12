@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/mohammedrimshan/leetcode/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/mohammedrimshan/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1833-find-the-highest-altitude](https://github.com/mohammedrimshan/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/mohammedrimshan/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/mohammedrimshan/leetcode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2836-neither-minimum-nor-maximum](https://github.com/mohammedrimshan/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/mohammedrimshan/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mohammedrimshan/leetcode/tree/master/0009-palindrome-number) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/mohammedrimshan/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/mohammedrimshan/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2812-find-the-maximum-achievable-number](https://github.com/mohammedrimshan/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3055-maximum-odd-binary-number](https://github.com/mohammedrimshan/leetcode/tree/master/3055-maximum-odd-binary-number) |
